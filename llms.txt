@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/enta-wala-noss-you-are-not-even-half/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Sync Licensing for Enta Wala Noss – You Are Not Even Half](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
