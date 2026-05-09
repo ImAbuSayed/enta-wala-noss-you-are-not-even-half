@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Enta Wala Noss – You Are Not Even Half
+
+This log tracks the cryptographic history and versioning for the song **Enta Wala Noss – You Are Not Even Half** (enta-wala-noss-you-are-not-even-half).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:17:45.696383 | `v1` | `e65b411f1baea5e7fd4ef156ecdaa9597051a6766838c18f96d8ce4ea601ba0c` | `b8a72b28177447aff699a89e29713ab88689170d67ab6a9dbd5bd938cd51867f` | `2026-05-09_enta-wala-noss-you-are-not-even-half-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
